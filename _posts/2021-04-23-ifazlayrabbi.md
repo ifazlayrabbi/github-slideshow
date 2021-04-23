@@ -2,7 +2,7 @@
 layout: slide
 title: Welcome to our second slide!"
 ---
-Your text - here i nedd to write something for changing my file.
+Your text - here i need to write something for changing my file.
 Use the left arrow to go back!
 
 An image:
